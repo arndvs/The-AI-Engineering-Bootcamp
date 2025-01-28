@@ -1,0 +1,21 @@
+[project]
+name = "04-producton-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain-core==0.3.31",
+    "langchain==0.3.15",
+    "langchain-community==0.3.15",
+    "langchain-openai==0.3.1",
+    "langchain-qdrant==0.2.0",
+    "qdrant-client==1.13.2",
+    "tiktoken>=0.8.0",
+    "pymupdf==1.25.2",
+    "langgraph>=0.2.67",
+    "langsmith>=0.3.1",
+    "openai>=1.60.0",
+    "cohere>=5.13.11",
+    "lxml>=5.3.0",
+]
