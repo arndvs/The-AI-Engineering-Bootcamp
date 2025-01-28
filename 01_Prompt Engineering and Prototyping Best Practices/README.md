@@ -37,32 +37,24 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-   - Aspect Tested:
 
-Ability to explain complex technical concepts in simple terms; teaching ability
+   - Aspect Tested: Ability to explain complex technical concepts in simple terms; teaching ability
 
 2. Read the following paragraph and provide a concise summary of the key points…
-   - Aspect Tested:
 
-Reading comprehension and synthesis; ability to extract key information
+   - Aspect Tested: Reading comprehension and synthesis; ability to extract key information
 
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
 
-   - Aspect Tested:
-
-   Mathematical problem-solving; logical reasoning
-
-Creative writing; ability to craft engaging narrative within constraints
+   - Aspect Tested: Creative writing; ability to craft engaging narrative within constraints
 
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
 
-   - Aspect Tested:
+   - Aspect Tested: Mathematical problem-solving; logical reasoning
 
 5. Rewrite the following paragraph in a professional, formal tone…
 
-   - Aspect Tested:
-
-   Writing style adaptation; formal communication skills
+   - Aspect Tested: Writing style adaptation; formal communication skills
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
