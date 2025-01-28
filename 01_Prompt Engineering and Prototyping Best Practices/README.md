@@ -37,15 +37,24 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-   - Aspect Tested:
+
+   - Aspect Tested: Ability to explain complex technical concepts in simple terms; teaching ability
+
 2. Read the following paragraph and provide a concise summary of the key points…
-   - Aspect Tested:
+
+   - Aspect Tested: Reading comprehension and synthesis; ability to extract key information
+
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-   - Aspect Tested:
+
+   - Aspect Tested: Creative writing; ability to craft engaging narrative within constraints
+
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-   - Aspect Tested:
+
+   - Aspect Tested: Mathematical problem-solving; logical reasoning
+
 5. Rewrite the following paragraph in a professional, formal tone…
-   - Aspect Tested:
+
+   - Aspect Tested: Writing style adaptation; formal communication skills
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -64,3 +73,11 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
 What are some limitations of vibe checking as an evaluation tool?
+
+- It's not a comprehensive
+- Potential for bias or gaming the system
+- Superficial evaluation
+- Cultural or language-based biases
+- Lack of structured evaluation
+- Inability to capture all aspects of the system
+- Potential for superficial or misleading results
