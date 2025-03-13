@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-<h1 align="center" id="heading">Session 1: Introduction and V ibe Check</h1>
+<h1 align="center" id="heading">Session 1: Introduction and Vibe Check</h1>
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/AIE5/00_AIM_Quicklinks)
 
@@ -37,24 +37,15 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-
-   - Aspect Tested: Ability to explain complex technical concepts in simple terms; teaching ability
-
+   - Aspect Tested:
 2. Read the following paragraph and provide a concise summary of the key points…
-
-   - Aspect Tested: Reading comprehension and synthesis; ability to extract key information
-
+   - Aspect Tested:
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-
-   - Aspect Tested: Creative writing; ability to craft engaging narrative within constraints
-
+   - Aspect Tested:
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-
-   - Aspect Tested: Mathematical problem-solving; logical reasoning
-
+   - Aspect Tested:
 5. Rewrite the following paragraph in a professional, formal tone…
-
-   - Aspect Tested: Writing style adaptation; formal communication skills
+   - Aspect Tested:
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -73,11 +64,3 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
 What are some limitations of vibe checking as an evaluation tool?
-
-- It's not a comprehensive
-- Potential for bias or gaming the system
-- Superficial evaluation
-- Cultural or language-based biases
-- Lack of structured evaluation
-- Inability to capture all aspects of the system
-- Potential for superficial or misleading results
